@@ -1,2 +1,4 @@
 # hello-world
-explore coding 
+# explore coding 
+# starting to learn computer and coding
+# not sure what I am doing
